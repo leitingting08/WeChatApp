@@ -1,4 +1,5 @@
 /**app.wxss**/
+/*这里是公用样式*/
 .container {
   height: 100%;
   display: flex;
@@ -8,3 +9,7 @@
   padding: 200rpx 0;
   box-sizing: border-box;
 } 
+
+text{
+	font-family:Microsoft YaHei;
+}
