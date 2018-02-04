@@ -1,8 +1,17 @@
 <!--pages/posts/post.wxml-->
 <view>
-  <swiper style='width:100%;height:500rpx;'>
-      <swiper-item>1</swiper-item>
-      <swiper-item><icon type="success" />2</swiper-item>
-      <swiper-item>3</swiper-item>
+  <swiper indicator-dots='true' autoplay='true' interval='2000'>
+      <!-- <block wx:for="{{imgUrls}}" wx:key="swiper"> -->
+      <swiper-item>
+          <image src='http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg' class='slide-image' width="355" height="150"></image> 
+      </swiper-item>
+      <swiper-item>
+          <image src='http://img06.tooopen.com/images/20160818/tooopen_sy_175866434296.jpg' class='slide-image' width="355" height="150"></image> 
+      </swiper-item>
+      <swiper-item>
+          <image src='http://img06.tooopen.com/images/20160818/tooopen_sy_175833047715.jpg' class='slide-image' width="355" height="150"></image> 
+      </swiper-item>
+
+      <!-- </block> -->
   </swiper>
 </view>
