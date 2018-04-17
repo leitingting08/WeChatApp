@@ -1,5 +1,5 @@
 /**index.wxss**/
-page{background-color: #FFB6C1;height:100%;font-size:32rpx;}
+page{background-color: #faf8ee;height:100%;font-size:32rpx;}
 .container{display: flex;flex-direction: column;align-items: center;}
 .user-avator{width:200rpx;height:200rpx;border-radius: 50%;}
 .welcome{margin-top: 200rpx;}
