@@ -9,3 +9,9 @@
   height: 200rpx;
   border-radius: 40rpx;
 }
+.btn{
+  color:#6a6056;
+  border:1px solid #666;
+  border-radius: 10rpx;
+  padding:20rpx 50rpx;
+}

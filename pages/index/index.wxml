@@ -3,6 +3,6 @@
   <image class="user-avator" src="/images/avatar.jpg"></image>
   <text class="welcome">Hello, Morty</text>
   <view class="con">
-    <text class="btn">开启小程序之旅</text>
+    <text class="btn" bindtap='start'>开启小程序之旅</text>
   </view>
 </view>

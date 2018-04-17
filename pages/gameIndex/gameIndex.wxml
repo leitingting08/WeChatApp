@@ -2,4 +2,5 @@
     <view>
       <image class='logo' src='../../images/2048.png'></image>
     </view>
+    <text bindtap="startgame" class='btn'>开始游戏</text>
 </view>

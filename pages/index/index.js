@@ -50,5 +50,10 @@ Page({
       userInfo: e.detail.userInfo,
       hasUserInfo: true
     })
+  },
+  start:function(){
+    wx.navigateTo({
+      url: '../gameIndex/gameIndex'
+    })
   }
 })
