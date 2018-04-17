@@ -1,2 +1,3 @@
 /* pages/posts/post.wxss */
 swiper{ width:100%;height:500rpx;}
+image{width:100%;height:100%;}

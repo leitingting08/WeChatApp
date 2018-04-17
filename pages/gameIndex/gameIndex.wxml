@@ -1,0 +1,5 @@
+<view class='container'>
+    <view>
+      <image class='logo' src='../../images/2048.png'></image>
+    </view>
+</view>

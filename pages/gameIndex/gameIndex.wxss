@@ -1,0 +1,11 @@
+.container {
+  background-color: #faf8ee;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+.logo {
+  width: 200rpx;
+  height: 200rpx;
+  border-radius: 40rpx;
+}
