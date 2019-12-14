@@ -1,17 +1,17 @@
 {
-  "pages":[
+  "pages": [
+    "pages/sports/sport",
     "pages/index/index",
     "pages/gameIndex/gameIndex",
     "pages/2048/2048",
     "pages/posts/post"
-    
-    
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "disableScroll": true,
     "navigationBarBackgroundColor": "#faf8ee",
     "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
-  }
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
 }
